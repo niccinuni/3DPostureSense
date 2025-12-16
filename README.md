@@ -35,9 +35,8 @@ Machine Learning pipeline for movement recognition:
 *   **Classification:** Implements a **Random Forest Classifier**.
 *   **Validation:** Validates the model using a **Leave-One-Subject-Out (LOSO)** cross-validation strategy to ensure the system generalizes well to new users.
 
----
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 *   **Hardware:** ESP32 board, Hall effect sensors/Load cells, connection wires.
@@ -65,5 +64,3 @@ Machine Learning pipeline for movement recognition:
 4.  **Classification:**
     *   Run the script in `Classifier and validation` to train the model and evaluate accuracy using the collected dataset.
 
-
-*   **[Your Name/Username]** - *Initial Work & Development*
